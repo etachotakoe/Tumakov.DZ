@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tumakov.DZ": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
